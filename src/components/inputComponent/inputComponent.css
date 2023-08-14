@@ -1,0 +1,30 @@
+.input-tag {
+    font-size: 14px;
+    background-color: #F7F8F9;
+    border: 1px solid #cbcbcb;
+    border-radius: 6px;
+    padding: 12px 1rem;
+    outline: none;
+    width: 100%;
+}
+
+.input-label {
+    color: #6C25FF;
+    font-size: 13px;
+    position: absolute;
+    top: 2px;
+    z-index: 1;
+    left: 14px;
+    background-color: #F7F8F9;
+    padding: 0 5px;
+}
+
+.input-wrapper {
+    position: relative;
+    padding: 0.5rem 0px;
+    width: 100%;
+    margin-bottom: 0.875rem;
+}
+span {
+    color: #DD4A3D;
+}
